@@ -2,7 +2,7 @@
 
 ## About:
 
-This report provides an analysis of email campaign performance, focusing on key metrics such as open rate, click rate, bounce rate, and conversion rate, unsubscribed rate from July to September 2024. It evaluates campaign effectiveness, identifies top-performing segments, and offers recommendations for improvement.. It evaluates campaign effectiveness, identifies top-performing segments, and offers recommendations for improvement.
+This report provides an analysis of email campaign performance, focusing on key metrics such as open rate, click rate, bounce rate, and conversion rate, unsubscribed rate from July to September 2024. It evaluates campaign effectiveness, identifies top-performing segments, and offers recommendations for improvement. It evaluates campaign effectiveness, identifies top-performing segments, and offers recommendations for improvement.
 
 ## Dashboard:
 
