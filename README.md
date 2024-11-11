@@ -6,11 +6,13 @@ This report delves into the performance of email campaigns from July to Septembe
 
 ## Dashboard:
 
-⭐ Interactive report link: https://lnkd.in/g44SXPyj
+⭐ Interactive report link: https://lnkd.in/g44SXPyj (old link)
 
-<img width="950" alt="Overview" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/a3ea508de665fe95cd1efeb272f9d2139d6b97e6/Overview.png">
-<img width="950" alt="Geographical" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/a3ea508de665fe95cd1efeb272f9d2139d6b97e6/Geographical.png">
-<img width="950" alt="Detail" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/a3ea508de665fe95cd1efeb272f9d2139d6b97e6/Detail.png">
+- Updated:
+<img width="950" alt="Introduce" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/1919ea521697d5e02a149c93129be92487b2dbde/Introduce.png">
+<img width="950" alt="Overview" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/1919ea521697d5e02a149c93129be92487b2dbde/Overview.png">
+<img width="950" alt="Geographical" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/1919ea521697d5e02a149c93129be92487b2dbde/Geographical.png">
+<img width="950" alt="Detail" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/1919ea521697d5e02a149c93129be92487b2dbde/Detail.png">
 
 ## Campaign Breakdown:
 
