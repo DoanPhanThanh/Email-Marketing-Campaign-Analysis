@@ -4,6 +4,10 @@
 
 This report delves into the performance of email campaigns from July to September 2024, focusing on key metrics such as open rate, click rate, conversion rate, bounce rate, and unsubscribe rate. The analysis includes a deep dive into geographic performance, campaign effectiveness, and device usage, with a particular emphasis on regions and segments that demonstrate potential for improvement. Additionally, we evaluate the top-performing campaigns, their respective rates, and identify strategies to optimize future email marketing efforts. Key insights from the analysis provide a detailed look at engagement trends and regional performance, offering actionable recommendations for enhancing conversion rates and campaign impact.
 
+## Certificate:
+
+<img width="950" alt="Certificate" src="https://github.com/DoanPhanThanh/Email-Marketing-Campaign-Analysis/blob/7dd75990078affa6acd2a234b922fd90eb294032/Phan%20Thanh%20Doan.PNG">
+
 ## Dashboard:
 
 ⭐ Interactive report link: https://lnkd.in/g44SXPyj (old link)
